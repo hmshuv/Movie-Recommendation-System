@@ -87,11 +87,10 @@ The app will open at **`http://localhost:8501`**.  Choose a movie from the dropd
 
 ## 🖼️ Screenshots
 
-| Home Screen                   | Recommendations                             |
-| ----------------------------- | ------------------------------------------- |
-| ![Home](screenshots/home.png) | ![Results](screenshots/recommendations.png) |
+<img width="1465" alt="image" src="https://github.com/user-attachments/assets/8cbff7af-0a68-4a21-9d46-3c56eb5c2905" />
+<img width="1414" alt="image" src="https://github.com/user-attachments/assets/ec44f152-5173-444d-b07d-93360cb0a657" />
 
-> Place your PNG/JPG files in a `screenshots/` directory so the images render on GitHub.
+
 
 ---
 
